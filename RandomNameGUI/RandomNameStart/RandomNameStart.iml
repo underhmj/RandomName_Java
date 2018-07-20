@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../RandomNameLogic">
+      <sourceFolder url="file://$MODULE_DIR$/../RandomNameLogic/src" isTestSource="false" />
+      <excludePattern pattern="adjectives.txt" />
+      <excludePattern pattern="firstNames.txt" />
+      <excludePattern pattern="lastNames.txt" />
+      <excludePattern pattern="nouns.txt" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../RandomNameLogic/out/artifacts/RNLogic/RNLogic.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
